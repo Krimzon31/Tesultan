@@ -21,7 +21,7 @@
 
 Для установки проекта с нашим приложением нам понадобатся среда разработки Microsoft Visual Studio подробное руководство по её установке можно найти тут --> [руководство по установке Visual Studio](https://learn.microsoft.com/ru-ru/visualstudio/install/install-visual-studio?view=vs-2022) <--.
 
-Для установки проекта переходим на [репозиторий GitHub](https://github.com/Krimzon31/Masks). Далее нажимаете кнопку изображённую на рисунке 2.
+Для установки проекта переходим на [репозиторий GitHub](https://github.com/Krimzon31/Tesultan). Далее нажимаете кнопку изображённую на рисунке 2.
 
 ![image](https://user-images.githubusercontent.com/83700861/209634755-3e15ba19-76a3-47b8-9b9f-15885f4ad89e.png)
 
