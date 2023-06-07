@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Ka9H3F7WpLIIbuJhLwf7pIdUxomPTy4Aeo2dDvyJMsU=",
+  "Source": "Tea Consultant",
+  "BasePath": "_content/Tea Consultant",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Tea Consultant\\wwwroot",
+      "Source": "Tea Consultant",
+      "ContentRoot": "D:\\Проекты C#\\Tea Consultant\\Tea Consultant\\wwwroot\\",
+      "BasePath": "_content/Tea Consultant",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Проекты C#\\Tea Consultant\\Tea Consultant\\wwwroot\\index.html",
+      "SourceId": "Tea Consultant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Проекты C#\\Tea Consultant\\Tea Consultant\\wwwroot\\",
+      "BasePath": "_content/Tea Consultant",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Проекты C#\\Tea Consultant\\Tea Consultant\\wwwroot\\style.css",
+      "SourceId": "Tea Consultant",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Проекты C#\\Tea Consultant\\Tea Consultant\\wwwroot\\",
+      "BasePath": "_content/Tea Consultant",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}

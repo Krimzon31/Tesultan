@@ -1,0 +1,83 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #444444;
+    background-image: url(https://celes.club/uploads/posts/2022-09/1662424745_3-celes-club-p-chainii-list-oboi-3.jpg);
+}
+.wrap-text {
+    color: white;
+}
+
+.input {
+    width: 210px;
+    margin: 0 auto;
+    padding: 0 30px;
+    position: relative;
+    top: 180px;
+}
+
+.h1{
+    width: 155px;
+    margin: 0 auto 8px;
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 24px;
+}
+
+.container {
+    width: 210px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.site-header {
+    min-width: 400px;
+    height: 75px;
+    margin-bottom: 150px;
+    padding-top: 25px;
+    background: #778D45;
+    background-size: cover;
+    color: #000000;
+    border: 1px solid black;
+}
+
+.site-header p {
+        width: 155px;
+        margin: 0 auto 26px;
+        font-size: 26px;
+        line-height: 24px;
+}
+
+
+.features {
+    position: relative;
+    top: -280px;
+    width: 950px;
+    height: 250px;
+    margin: 0 auto;
+    border: 5px solid black;
+    padding: 0 20px;
+    overflow: auto;
+    background-color: #778D45;
+}
+
+
+.site-footer {
+    min-width: 200px;
+    background-color: #344C11;
+    color: #000000;
+    border: 1px solid black;
+}
+
+.site-footer .container {
+    text-align: center;
+}
+
+.site-footer p {
+    padding: 0 5px;
+}

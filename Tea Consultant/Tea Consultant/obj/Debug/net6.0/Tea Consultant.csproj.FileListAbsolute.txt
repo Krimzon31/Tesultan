@@ -1,0 +1,22 @@
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\appsettings.Development.json
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\appsettings.json
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Tea Consultant.staticwebassets.runtime.json
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Tea Consultant.exe
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Tea Consultant.deps.json
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Tea Consultant.runtimeconfig.json
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Tea Consultant.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Tea Consultant.pdb
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.csproj.AssemblyReference.cache
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.AssemblyInfoInputs.cache
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.AssemblyInfo.cs
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.csproj.CoreCompileInputs.cache
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.MvcApplicationPartsAssemblyInfo.cache
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\staticwebassets.build.json
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\staticwebassets.development.json
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\scopedcss\bundle\Tea Consultant.styles.css
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\refint\Tea Consultant.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.pdb
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.genruntimeconfig.cache
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\ref\Tea Consultant.dll
