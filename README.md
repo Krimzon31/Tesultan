@@ -1,7 +1,7 @@
 # Tesultan
 <p align="center">
 
-  <img width="150" height="150" src="https://github.com/Krimzon31/Tesultan/assets/83700861/547e777f-8fd6-4348-bb46-f62940186e0a">
+  <img width="150" height="150" src="https://github.com/Krimzon31/Tesultan/assets/83700861/9ca06653-bb36-415b-ba55-3186e174d1d5">
 
 </p>
 
