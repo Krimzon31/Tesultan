@@ -42,16 +42,26 @@
 
                 // создаем элемент <b> для имени пользователя
                 const userNameElem = document.createElement("b");
-                userNameElem.textContent = `${userName}: `;
+                userNameElem.textContent = ` :${userName}`;
+
+                // создаём элемент img
+                const img = document.createElement("img");
+                img.src = 'https://cdn.icon-icons.com/icons2/1904/PNG/512/profile_121261.png';
+                img.width = "20";
+                img.height = "20";
+                img.align = "right";
 
                 // создает элемент <p> для сообщения пользователя
                 const elem = document.createElement("p");
-                elem.appendChild(userNameElem);
+                elem.align = "right";
                 elem.appendChild(document.createTextNode(message));
+                elem.appendChild(userNameElem);
+                
 
                 // добавляем новый элемент в самое начало
                 // для этого сначала получаем первый элемент
                 const firstElem = document.getElementById("chatroom").firstChild;
+                document.getElementById("chatroom").insertBefore(img, firstElem);
                 document.getElementById("chatroom").insertBefore(elem, firstElem);
             });
 
@@ -61,7 +71,15 @@
                 // создаем элемент <b> для имени пользователя
                 const userNameElem = document.createElement("b");
                 userNameElem.textContent = `Tesultan: `;
+                userNameElem.align = "left";
 
+                // создаём элемент img
+                const img = document.createElement("img");
+                img.src = 'https://pngicon.ru/file/uploads/chai.png';
+                img.width = "20";
+                img.height = "20";
+                img.align = "left";
+              
                 // создает элемент <p> для сообщения пользователя
                 const elem = document.createElement("p");
                 elem.appendChild(userNameElem);
@@ -70,6 +88,7 @@
                 // добавляем новый элемент в самое начало
                 // для этого сначала получаем первый элемент
                 const firstElem = document.getElementById("chatroom").firstChild;
+                document.getElementById("chatroom").insertBefore(img, firstElem);
                 document.getElementById("chatroom").insertBefore(elem, firstElem);
             });
             

@@ -20,3 +20,16 @@ D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\refint\Tea C
 D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.pdb
 D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.genruntimeconfig.cache
 D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\ref\Tea Consultant.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Json.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Проекты C#\Tea Consultant\Tea Consultant\obj\Debug\net6.0\Tea Consultant.csproj.CopyComplete
+D:\Проекты C#\Tea Consultant\Tea Consultant\bin\Debug\net6.0\Npgsql.dll
